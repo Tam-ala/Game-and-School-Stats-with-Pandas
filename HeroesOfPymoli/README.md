@@ -67,10 +67,25 @@ My final report includes the following:
   * Item Price
   * Total Purchase Value
 
-# What are the trends?
+## What are the trends?
 
+Gender & Age:
 
+The male players outnumbered female players by a large margin (83% and 14% respectfully) and there was a small percentage who didn't disclose their gender(15%).
 
+The age range didn't exactly match the usual assumption of who usually plays video games which are teenagers. The typical age of Pymoli players were actually in their early 20s with 365 players. In addition, there are actually a small percentage of people who are over 40 years-old. This could be people who lie about their age but it would be interesting to find out if this is an age demographic to go after.
+
+Purchasing Power:
+
+576 players generated $2,379.77 in revenue over unique items purchases. There were 179 items for sale that had an average price of $3.05.
+
+Since male players outweighed female players, the purchasing power correlates with the the amount of players per gender.
+
+The total purchase value among all age groups fall on early 20 year-olds. The average purchase price from people in the early 20s is slightly higher than teenagers at $3.05 as opposed to $3.03.
+
+The top spender happened to be Zontibe81 who purchased 3 items that totaled at $8.03.
+
+The most popular item sold was the Oathbreaker. There was also a 3-way tie of Fiery Glass Crusader, Extraction, and Nirvana. And all but Extraction were also the most profitable.
 
 ### Copyright
 
