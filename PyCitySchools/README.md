@@ -84,7 +84,7 @@ District Summary:
 With the overall look at this district, the average reading and math scores (81 and 78) are pretty close but percentage wise it's 10% apart(85% and 74%).
 
 School Summary:
-The budget per student hovers around 580 and 655. It also appears that the school budget and student population are proportional. More students means more money. Another observation to note is that schools like Wilson High School has a lower budget per student (578) while schools like Griffin High School has a higher budget per student (625).
+The budget per student hovers around $580 and $655. It also appears that the school budget and student population are proportional. More students means more money. Another observation to note is that schools like Wilson High School has a lower budget per student ($578) while schools like Griffin High School has a higher budget per student ($625).
 
 Top & Bottom Performing Schools:
 The top performing schools have a lower student populaiton and a corresponding lower budget. Most of the students have about the same average reading and math score and most of the students pass overall with about 95%. The bottom performing schools have a higher student population, higher budget, and math scores are on a barely passing end with only 60% of the student population are passing overall. So with this in mind, it aligns with the popular notion that smaller classes could be a great benifit to students.
@@ -97,6 +97,7 @@ For spending and population we see here that there's a link between lower spendi
 
 
 <hr>
+
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
